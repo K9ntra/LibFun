@@ -1,15 +1,15 @@
 # LibFun
-Hello! This is the official repository for LibFun.
+Welcome to the official repository for LibFun.
 
-## Info
-LibFun is a Script Hub created by the Brazilian developer **Kontra**, focused on providing useful, practical, and well-organized scripts for Roblox.
+## Information
+LibFun is a Script Hub developed by the Brazilian developer **Kontra**, dedicated to delivering practical, well-structured, and highly functional scripts for the Roblox platform.
 
-The project is mainly inspired by the [Eclipse Hub](https://github.com/Ethanoj1/Eclipse/tree/main), using similar concepts and ideas, but with its own adaptations, modifications, and identity.
+This project draws significant inspiration from the [Eclipse Hub](https://github.com/Ethanoj1/Eclipse/tree/main), incorporating similar foundational concepts and ideas, while also introducing its unique adaptations, modifications, and distinct identity.
 
-The goal of LibFun is to offer scripts that are easy to use, optimized, and simple to update, prioritizing performance, stability, and a smooth user experience.
+LibFun's primary objective is to provide scripts that are user-friendly, optimized for performance, and designed for straightforward updates, thereby ensuring superior performance, stability, and a seamless user experience.
 
 ## Loadstring
-The current loadstring is:
+The current loadstring is as follows:
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/K9ntra/LibFun/refs/heads/main/abc.luau'))()
 ))()
