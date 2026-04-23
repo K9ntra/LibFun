@@ -11,5 +11,5 @@ LibFun's primary objective is to provide scripts that are user-friendly, optimiz
 ## Loadstring
 The current loadstring is as follows:
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/K9ntra/LibFun/refs/heads/main/abc.luau'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KontraPJL/LibFun/refs/heads/main/abc.luau'))()
 ))()
